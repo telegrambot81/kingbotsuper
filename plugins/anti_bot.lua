@@ -111,7 +111,7 @@ return {
   },
   run = run
 }
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright; @Oo_mehdi_shar_khoffash_revale_oO
+--Persian Translate; @Oo_mehdi_shar_khoffash_revale_oO
+--ch : @kingbot_team
 --کپی بدون ذکر منبع حرام است
