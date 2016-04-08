@@ -1,7 +1,7 @@
 
 
 do
-local SUDO = 106164433 --put your id here(BOT OWNER ID)
+local SUDO = 120629055 --put your id here(BOT OWNER ID)
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
@@ -234,7 +234,7 @@ return {
 
 end
 
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright; @Oo_mehdi_shar_khoffash_revale_oO
+--Persian Translate; @Oo_mehdi_shar_khoffash_revale_oO
+--ch : @kingbot_team
 --کپی بدون ذکر منبع حرام است
